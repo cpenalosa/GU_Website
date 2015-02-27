@@ -1,0 +1,202 @@
+/* Section Header */
+.sectionhead {
+	clear: both;
+	padding: 0% 0% 0% 0%;
+	margin: 0px;
+}
+
+#header {
+	background-image: url("/images/home.jpg");
+	background-attachment: fixed;
+	background-size: 920px 460px;
+	height: 100%, width:100%; 
+    background-repeat: no-repeat; 
+    background-position: center;      
+    webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+}
+
+.aboutbg {
+	background-image: url("/images/aboutbg.jpg");
+	background-attachment: fixed;
+	background-size: 1000px 400px;
+	height: 100%, width:100%; 
+    background-repeat: no-repeat; 
+    background-position: center;      
+    webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+}
+
+
+
+
+/* Footer */
+footer {
+	font-size: 14px;
+	padding: 20px;
+}
+/* 
+ COLUMN SETUP .colhead {
+	display: block;
+	float:left;
+	margin: 1% 0 1% 1.6%;
+}
+.colhead:first-child { margin-left: 0; }
+
+
+ GROUPING .grouphead:before,
+.grouphead:after {
+	content:"";
+	display:table;
+}
+.grouphead:after {
+	clear:both;
+}
+.grouphead {
+    zoom:1; For IE 6/7}
+
+ GRID OF THREE .spanhead_3_of_3 {
+	width: 100%;
+}
+.spanhead_2_of_3 {
+	width: 100%;
+}
+.spanhead_1_of_3 {
+	width: 100.2%;
+}
+
+ GO FULL WIDTH AT LESS THAN 480 PIXELS
+@media only screen and (max-width: 480px) {
+	.colhead { 
+		margin: 1% 0 1% 0%;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.spanhead_3_of_3 {
+		width: 100%; 
+	}
+	.spanhead_2_of_3 {
+		width: 100%; 
+	}
+	.spanhead_1_of_3 {
+		width: 100%;
+	}
+}
+ */
+
+#logo {
+	    margin: 1% 19% 2% 33%;
+	    border: 0;
+		padding: 0;
+
+	}
+	
+/* Navigation */
+.iconz {
+	padding: 20px 0px 0px 0px;
+	font-size: 22px;
+}
+
+#egnekn {
+	margin: 0px 40px 0px;
+}
+#menunav {
+/* 	font-size: 20px; */
+	padding: 20px 10px 10px;
+/* 	background-color: rgba(223, 223, 223, 0.66); */
+}
+#heightrule {
+	height: 90px;
+}
+
+/* 
+ SECTIONS for Releases .section {
+	clear: both;
+	padding: 0% 0% 0% 1%;
+	border: 0px;
+	margin: 1% 1% 0% 1%;
+}
+
+
+
+ GROUPING .group:before,
+.group:after {
+	content:"";
+	display:table;
+}
+.group:after {
+	clear:both;
+}
+.group {
+    zoom:1; For IE 6/7}
+
+ GRID OF THREE .span_3_of_3 {
+	width: 100%;
+}
+.span_2_of_3 {
+	width: 66.1%;
+}
+.span_1_of_3 {
+	width: 32.2%;
+}
+
+ GO FULL WIDTH AT LESS THAN 480 PIXELS
+@media only screen and (max-width: 480px) {
+	.col { 
+		margin: 1% 0 1% 0%;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.span_3_of_3 {
+		width: 100%; 
+	}
+	.span_2_of_3 {
+		width: 100%; 
+	}
+	.span_1_of_3 {
+		width: 100%;
+	}
+}
+
+Content Section Styling.canvas  {
+	margin: 0px 0px 0px 0px;
+}
+
+
+
+Images in Columns#laminate {
+	width: 33%;
+	height: 250px;
+}
+
+#nocake {
+	width: 250px;
+	height: 250px;
+}
+	
+.releaseimages img {
+	width: 33%
+	display: inline-block;
+}
+
+
+Readers.frontread	{
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: 200px;
+	margin-left: 200px;
+}
+
+Footer#footsies 	{
+		padding: 10% 0px 2% 0px
+		font-family: tahoma, sans-serif;
+		font-size: 12px;
+		text-align: center;
+	}
+ */

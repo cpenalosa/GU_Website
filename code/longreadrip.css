@@ -1,0 +1,36 @@
+.wrap {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 15%;
+  padding-right: 15%; }
+.longread p {
+  font-family: Georgia, serif;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: justify;
+  text-justify: newspaper;
+  margin-top: 5%;
+  margin-bottom: 5%; }
+.longread blockquote {
+  font-family: 'Lato', Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 24px;
+  background-color: #e0e0e0;
+  padding: 5%; }
+.longread hr {
+  margin: 20px 0;
+  border: 0;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black; }
+.longread small {
+  font-family: 'Lato', Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: center;
+  align: middle; }
+.longread img {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto; }
